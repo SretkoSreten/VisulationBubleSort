@@ -4,5 +4,5 @@
 The code was written when i was 15 year old
 
 # Required:
-Python
+Python,
 Pygame
